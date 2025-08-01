@@ -62,6 +62,8 @@ This project covers everything from authentication to book management, cart, ord
 
 ---
 
+<img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/9812a85b-2ef1-480a-bb27-db36ca035488" />
+
 
 
 
